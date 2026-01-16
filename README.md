@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Natalija Arizankoska</h1>
 <h3 align="center">A Software Engineer and MSc Student in Machine Learning</h3>
 
-I'm currently a Master's Student in Machine Learning and Data Science, holding a Bachelor's degree in Computer Science and System Engineering. My research and professional interests revolve around diffusion models, computer vision, and natural language processing (NLP). I'm passionate about building impactful machine learning solutions and enjoy exploring these areas through hands-on projects and practical challenges.
+Currently pursuing a Master's degree in Machine Learning and Data Science, I bring a strong technical foundation from my undergraduate studies in Computer Science and System Engineering. My research interests center on diffusion models, computer vision, and NLP, where I focus on translating theoretical concepts into tangible applications. I thrive on tackling complex problems through experimentation and implementation.
 
 
